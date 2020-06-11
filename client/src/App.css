@@ -43,7 +43,7 @@
 
 
 .App{
-  overflow: hidden
+  overflow: hidden;
 }
 
 
@@ -319,12 +319,12 @@
   opacity: 1;
   transition: .3s ease;
 }*/
-{/*#shah1{
+/*#shah1{
   display: none;
 }
 .shah2:hover+ #shah1 {
   display: block;
-}*/}
+}*/
 
 
 .mobi{
@@ -344,7 +344,6 @@
   }
 }
 
-1280 x 800
 @media only screen and (min-device-width : 360px) and (max-device-width : 640px){
   .scrollbar{
     height: 275px;
@@ -954,7 +953,7 @@
 }
 
 
-{/*@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .nav-side-menu {
     position: relative;
     width: 95%;
@@ -966,7 +965,7 @@
   .nav-side-menu .menu-list .menu-content {
     display: block;
   }
-}*/}
+}*/
 
 
 
